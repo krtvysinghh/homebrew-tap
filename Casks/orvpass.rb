@@ -1,6 +1,6 @@
 cask "orvpass" do
-  version "4.1.2"
-  sha256 "252260fe4fb98ad58bb52fcfa06cc892456c7913c208c38ff8cc487947aee6a2"
+  version "4.2.0"
+  sha256 "1f0f5b039265f12b84e1d0d13388ea9b8bb155941fb7c18035406f08610ad80d"
 
   url "https://github.com/krtvysinghh/Orvpass/releases/download/v#{version}/Orvpass_#{version}_aarch64.dmg"
   name "Orvpass"
