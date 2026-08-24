@@ -1,5 +1,5 @@
 cask "orvpass" do
-  version "4.1.1"
+  version "4.1.2"
   sha256 :no_check
 
   url "https://github.com/krtvysinghh/Orvpass/releases/download/v#{version}/Orvpass_#{version}_aarch64.dmg"
